@@ -14,7 +14,7 @@ phone_number = '5511948601229'
 group_id = -1002248196253  # ID prefixado com -100 para supergrupos
 
 console = Console()
-logger = console.log  
+logger = console.log
 
 async def initialize_client():
     client = TelegramClient('session_name', api_id, api_hash)
@@ -66,15 +66,18 @@ async def download_videos_from_ids(client, file_path, folder_path):
         logger(f"[yellow]Nenhum ID encontrado no arquivo {file_path}.[/yellow]")
         return
 
+    # Gerenciamento de tarefas
     tasks = set()
 
     for message_id in message_ids:
         if len(tasks) >= 10:
+            # Aguarda até que alguma tarefa seja concluída
             done, tasks = await asyncio.wait(tasks, return_when=asyncio.FIRST_COMPLETED)
 
         task = asyncio.create_task(download_single_video(client, message_id, folder_path))
         tasks.add(task)
 
+    # Aguarda todas as tarefas restantes
     if tasks:
         await asyncio.wait(tasks)
 
