@@ -1,0 +1,56 @@
+2024-08-05 02:50:25,949 - INFO - Connecting to 149.154.175.58:443/TcpFull...
+2024-08-05 02:50:26,073 - INFO - Connection to 149.154.175.58:443/TcpFull complete!
+2024-08-05 02:50:27,043 - INFO - Analisando o grupo: MINI VIP (TÓPICOS)
+2024-08-05 02:50:27,293 - INFO - ID do tópico: 1, Nome do tópico: AVISOS IMPORTANDES
+2024-08-05 02:50:27,293 - INFO - ID do tópico: 26555, Nome do tópico: ALINE FARIAS
+2024-08-05 02:50:27,294 - INFO - ID do tópico: 24274, Nome do tópico: GEISY ARRUDA
+2024-08-05 02:50:27,294 - INFO - ID do tópico: 20225, Nome do tópico: MULHER MELÃO
+2024-08-05 02:50:27,294 - INFO - ID do tópico: 19276, Nome do tópico: MEL BERTOJA
+2024-08-05 02:50:27,294 - INFO - ID do tópico: 16936, Nome do tópico: ANDRESSA URACH
+2024-08-05 02:50:27,295 - INFO - ID do tópico: 17365, Nome do tópico: KINECHAN
+2024-08-05 02:50:27,295 - INFO - ID do tópico: 17953, Nome do tópico: ANNY ALVES
+2024-08-05 02:50:27,295 - INFO - ID do tópico: 15036, Nome do tópico: DEBORA PEIXOTO
+2024-08-05 02:50:27,295 - INFO - ID do tópico: 16, Nome do tópico: CIBELLY FERREIRA
+2024-08-05 02:50:27,296 - INFO - ID do tópico: 13576, Nome do tópico: RAISSA OLIVEIRA
+2024-08-05 02:50:27,296 - INFO - ID do tópico: 9950, Nome do tópico: LUANA KAZAKI
+2024-08-05 02:50:27,296 - INFO - ID do tópico: 20, Nome do tópico: TATI ZAQUI
+2024-08-05 02:50:27,296 - INFO - ID do tópico: 26, Nome do tópico: CATARINA PAOLINO
+2024-08-05 02:50:27,296 - INFO - ID do tópico: 12, Nome do tópico: MC MIRELLA
+2024-08-05 02:50:27,297 - INFO - ID do tópico: 24, Nome do tópico: YA MALB
+2024-08-05 02:50:27,297 - INFO - ID do tópico: 9, Nome do tópico: JULIANA BONDE
+2024-08-05 02:50:27,297 - INFO - ID do tópico: 22, Nome do tópico: DJ NATHI
+2024-08-05 02:50:27,297 - INFO - ID do tópico: 28, Nome do tópico: ISADORA VALE
+2024-08-05 02:50:27,298 - INFO - ID do tópico: 5623, Nome do tópico: THAISSA FIT
+2024-08-05 02:50:27,298 - INFO - ID do tópico: 14, Nome do tópico: MC PIPOKINHA
+2024-08-05 02:50:27,298 - INFO - ID do tópico: 18, Nome do tópico: AYARLA SOUZA
+2024-08-05 02:50:27,298 - INFO - ID do tópico: 7776, Nome do tópico: BRENDA TRINDADE
+2024-08-05 02:50:27,298 - INFO - Disconnecting from 149.154.175.58:443/TcpFull...
+2024-08-05 02:50:27,300 - INFO - Disconnection from 149.154.175.58:443/TcpFull complete!
+2024-08-05 02:52:11,777 - INFO - Connecting to 149.154.175.58:443/TcpFull...
+2024-08-05 02:52:11,897 - INFO - Connection to 149.154.175.58:443/TcpFull complete!
+2024-08-05 02:52:12,815 - INFO - Analisando o grupo: MINI VIP (TÓPICOS)
+2024-08-05 02:52:13,027 - INFO - ID do tópico: 1, Nome do tópico: AVISOS IMPORTANDES
+2024-08-05 02:52:13,027 - INFO - ID do tópico: 26555, Nome do tópico: ALINE FARIAS
+2024-08-05 02:52:13,028 - INFO - ID do tópico: 24274, Nome do tópico: GEISY ARRUDA
+2024-08-05 02:52:13,028 - INFO - ID do tópico: 20225, Nome do tópico: MULHER MELÃO
+2024-08-05 02:52:13,028 - INFO - ID do tópico: 19276, Nome do tópico: MEL BERTOJA
+2024-08-05 02:52:13,028 - INFO - ID do tópico: 16936, Nome do tópico: ANDRESSA URACH
+2024-08-05 02:52:13,028 - INFO - ID do tópico: 17365, Nome do tópico: KINECHAN
+2024-08-05 02:52:13,029 - INFO - ID do tópico: 17953, Nome do tópico: ANNY ALVES
+2024-08-05 02:52:13,029 - INFO - ID do tópico: 15036, Nome do tópico: DEBORA PEIXOTO
+2024-08-05 02:52:13,029 - INFO - ID do tópico: 16, Nome do tópico: CIBELLY FERREIRA
+2024-08-05 02:52:13,029 - INFO - ID do tópico: 13576, Nome do tópico: RAISSA OLIVEIRA
+2024-08-05 02:52:13,029 - INFO - ID do tópico: 9950, Nome do tópico: LUANA KAZAKI
+2024-08-05 02:52:13,030 - INFO - ID do tópico: 20, Nome do tópico: TATI ZAQUI
+2024-08-05 02:52:13,030 - INFO - ID do tópico: 26, Nome do tópico: CATARINA PAOLINO
+2024-08-05 02:52:13,030 - INFO - ID do tópico: 12, Nome do tópico: MC MIRELLA
+2024-08-05 02:52:13,030 - INFO - ID do tópico: 24, Nome do tópico: YA MALB
+2024-08-05 02:52:13,030 - INFO - ID do tópico: 9, Nome do tópico: JULIANA BONDE
+2024-08-05 02:52:13,030 - INFO - ID do tópico: 22, Nome do tópico: DJ NATHI
+2024-08-05 02:52:13,030 - INFO - ID do tópico: 28, Nome do tópico: ISADORA VALE
+2024-08-05 02:52:13,030 - INFO - ID do tópico: 5623, Nome do tópico: THAISSA FIT
+2024-08-05 02:52:13,030 - INFO - ID do tópico: 14, Nome do tópico: MC PIPOKINHA
+2024-08-05 02:52:13,030 - INFO - ID do tópico: 18, Nome do tópico: AYARLA SOUZA
+2024-08-05 02:52:13,030 - INFO - ID do tópico: 7776, Nome do tópico: BRENDA TRINDADE
+2024-08-05 02:52:13,031 - INFO - Disconnecting from 149.154.175.58:443/TcpFull...
+2024-08-05 02:52:13,031 - INFO - Disconnection from 149.154.175.58:443/TcpFull complete!
