@@ -54,3 +54,296 @@
 2024-08-05 02:52:13,030 - INFO - ID do tópico: 7776, Nome do tópico: BRENDA TRINDADE
 2024-08-05 02:52:13,031 - INFO - Disconnecting from 149.154.175.58:443/TcpFull...
 2024-08-05 02:52:13,031 - INFO - Disconnection from 149.154.175.58:443/TcpFull complete!
+2024-08-05 03:52:32,791 - INFO - Connecting to 149.154.175.58:443/TcpFull...
+2024-08-05 03:52:32,917 - INFO - Connection to 149.154.175.58:443/TcpFull complete!
+2024-08-05 03:52:33,852 - INFO - Analisando o grupo: MINI VIP (TÓPICOS)
+2024-08-05 03:52:34,099 - INFO - ID do tópico: 1, Nome do tópico: AVISOS IMPORTANDES
+2024-08-05 03:52:34,099 - INFO - ID do tópico: 26555, Nome do tópico: ALINE FARIAS
+2024-08-05 03:52:34,099 - INFO - ID do tópico: 24274, Nome do tópico: GEISY ARRUDA
+2024-08-05 03:52:34,099 - INFO - ID do tópico: 20225, Nome do tópico: MULHER MELÃO
+2024-08-05 03:52:34,099 - INFO - ID do tópico: 19276, Nome do tópico: MEL BERTOJA
+2024-08-05 03:52:34,099 - INFO - ID do tópico: 16936, Nome do tópico: ANDRESSA URACH
+2024-08-05 03:52:34,099 - INFO - ID do tópico: 17365, Nome do tópico: KINECHAN
+2024-08-05 03:52:34,100 - INFO - ID do tópico: 17953, Nome do tópico: ANNY ALVES
+2024-08-05 03:52:34,100 - INFO - ID do tópico: 15036, Nome do tópico: DEBORA PEIXOTO
+2024-08-05 03:52:34,100 - INFO - ID do tópico: 16, Nome do tópico: CIBELLY FERREIRA
+2024-08-05 03:52:34,100 - INFO - ID do tópico: 13576, Nome do tópico: RAISSA OLIVEIRA
+2024-08-05 03:52:34,100 - INFO - ID do tópico: 9950, Nome do tópico: LUANA KAZAKI
+2024-08-05 03:52:34,100 - INFO - ID do tópico: 20, Nome do tópico: TATI ZAQUI
+2024-08-05 03:52:34,100 - INFO - ID do tópico: 26, Nome do tópico: CATARINA PAOLINO
+2024-08-05 03:52:34,100 - INFO - ID do tópico: 12, Nome do tópico: MC MIRELLA
+2024-08-05 03:52:34,100 - INFO - ID do tópico: 24, Nome do tópico: YA MALB
+2024-08-05 03:52:34,100 - INFO - ID do tópico: 9, Nome do tópico: JULIANA BONDE
+2024-08-05 03:52:34,100 - INFO - ID do tópico: 22, Nome do tópico: DJ NATHI
+2024-08-05 03:52:34,100 - INFO - ID do tópico: 28, Nome do tópico: ISADORA VALE
+2024-08-05 03:52:34,100 - INFO - ID do tópico: 5623, Nome do tópico: THAISSA FIT
+2024-08-05 03:52:34,101 - INFO - ID do tópico: 14, Nome do tópico: MC PIPOKINHA
+2024-08-05 03:52:34,101 - INFO - ID do tópico: 18, Nome do tópico: AYARLA SOUZA
+2024-08-05 03:52:34,101 - INFO - ID do tópico: 7776, Nome do tópico: BRENDA TRINDADE
+2024-08-05 03:52:34,101 - INFO - Disconnecting from 149.154.175.58:443/TcpFull...
+2024-08-05 03:52:34,101 - INFO - Disconnection from 149.154.175.58:443/TcpFull complete!
+2024-08-05 03:56:07,375 - INFO - Connecting to 149.154.175.58:443/TcpFull...
+2024-08-05 03:56:07,488 - INFO - Connection to 149.154.175.58:443/TcpFull complete!
+2024-08-05 03:56:08,457 - INFO - Analisando o grupo: MINI VIP (TÓPICOS)
+2024-08-05 03:56:08,687 - INFO - Analisando o tópico: ALINE FARIAS
+2024-08-05 03:56:08,687 - INFO - Criada pasta: C:\Users\rhuan\projetosTunnel\TelegramMidiaDownload\ALINE FARIAS
+2024-08-05 03:56:08,687 - INFO - Obtendo mensagens do tópico, offset_id=0
+2024-08-05 03:56:08,955 - INFO - Obtendo mensagens do tópico, offset_id=27094
+2024-08-05 03:56:09,237 - INFO - Obtendo mensagens do tópico, offset_id=26994
+2024-08-05 03:56:09,574 - INFO - Obtendo mensagens do tópico, offset_id=26894
+2024-08-05 03:56:09,847 - INFO - Obtendo mensagens do tópico, offset_id=26794
+2024-08-05 03:56:10,079 - INFO - Obtendo mensagens do tópico, offset_id=26694
+2024-08-05 03:56:10,390 - INFO - Obtendo mensagens do tópico, offset_id=26593
+2024-08-05 03:56:10,641 - INFO - Obtendo mensagens do tópico, offset_id=26471
+2024-08-05 03:56:10,886 - INFO - Obtendo mensagens do tópico, offset_id=26371
+2024-08-05 03:56:11,119 - INFO - Obtendo mensagens do tópico, offset_id=26271
+2024-08-05 03:56:11,381 - INFO - Obtendo mensagens do tópico, offset_id=26171
+2024-08-05 03:56:11,622 - INFO - Obtendo mensagens do tópico, offset_id=26071
+2024-08-05 03:56:11,848 - INFO - Obtendo mensagens do tópico, offset_id=25971
+2024-08-05 03:56:12,080 - INFO - Obtendo mensagens do tópico, offset_id=25871
+2024-08-05 03:56:12,296 - INFO - Obtendo mensagens do tópico, offset_id=25771
+2024-08-05 03:56:12,523 - INFO - Obtendo mensagens do tópico, offset_id=25671
+2024-08-05 03:56:12,782 - INFO - Obtendo mensagens do tópico, offset_id=25570
+2024-08-05 03:56:13,024 - INFO - Obtendo mensagens do tópico, offset_id=25470
+2024-08-05 03:56:13,264 - INFO - Obtendo mensagens do tópico, offset_id=25370
+2024-08-05 03:56:13,504 - INFO - Obtendo mensagens do tópico, offset_id=25270
+2024-08-05 03:56:13,741 - INFO - Obtendo mensagens do tópico, offset_id=25170
+2024-08-05 03:56:14,014 - INFO - Obtendo mensagens do tópico, offset_id=25070
+2024-08-05 03:56:14,268 - INFO - Obtendo mensagens do tópico, offset_id=24969
+2024-08-05 03:56:14,519 - INFO - Obtendo mensagens do tópico, offset_id=24869
+2024-08-05 03:56:14,766 - INFO - Obtendo mensagens do tópico, offset_id=24769
+2024-08-05 03:56:15,006 - INFO - Obtendo mensagens do tópico, offset_id=24669
+2024-08-05 03:56:15,252 - INFO - Obtendo mensagens do tópico, offset_id=24569
+2024-08-05 03:56:15,598 - INFO - Obtendo mensagens do tópico, offset_id=24469
+2024-08-05 03:56:15,831 - INFO - Obtendo mensagens do tópico, offset_id=24369
+2024-08-05 03:56:16,077 - INFO - Obtendo mensagens do tópico, offset_id=24197
+2024-08-05 03:56:16,314 - INFO - Obtendo mensagens do tópico, offset_id=24097
+2024-08-05 03:56:16,436 - INFO - Sleeping for 24s (0:00:24) on GetHistoryRequest flood wait
+2024-08-05 03:56:40,689 - INFO - Obtendo mensagens do tópico, offset_id=23997
+2024-08-05 03:56:40,935 - INFO - Obtendo mensagens do tópico, offset_id=23897
+2024-08-05 03:56:41,230 - INFO - Obtendo mensagens do tópico, offset_id=23797
+2024-08-05 03:56:41,466 - INFO - Obtendo mensagens do tópico, offset_id=23697
+2024-08-05 03:56:41,740 - INFO - Obtendo mensagens do tópico, offset_id=23596
+2024-08-05 03:56:41,985 - INFO - Obtendo mensagens do tópico, offset_id=23496
+2024-08-05 03:56:42,221 - INFO - Obtendo mensagens do tópico, offset_id=23395
+2024-08-05 03:56:42,463 - INFO - Obtendo mensagens do tópico, offset_id=23294
+2024-08-05 03:56:42,730 - INFO - Obtendo mensagens do tópico, offset_id=23194
+2024-08-05 03:56:42,975 - INFO - Obtendo mensagens do tópico, offset_id=23093
+2024-08-05 03:56:43,222 - INFO - Obtendo mensagens do tópico, offset_id=22992
+2024-08-05 03:56:43,463 - INFO - Obtendo mensagens do tópico, offset_id=22891
+2024-08-05 03:56:43,720 - INFO - Obtendo mensagens do tópico, offset_id=22791
+2024-08-05 03:56:43,972 - INFO - Obtendo mensagens do tópico, offset_id=22691
+2024-08-05 03:56:44,220 - INFO - Obtendo mensagens do tópico, offset_id=22591
+2024-08-05 03:56:44,475 - INFO - Obtendo mensagens do tópico, offset_id=22490
+2024-08-05 03:56:44,743 - INFO - Obtendo mensagens do tópico, offset_id=22390
+2024-08-05 03:56:44,989 - INFO - Obtendo mensagens do tópico, offset_id=22290
+2024-08-05 03:56:45,223 - INFO - Obtendo mensagens do tópico, offset_id=22190
+2024-08-05 03:56:45,465 - INFO - Obtendo mensagens do tópico, offset_id=22090
+2024-08-05 03:56:45,733 - INFO - Obtendo mensagens do tópico, offset_id=21990
+2024-08-05 03:56:45,979 - INFO - Obtendo mensagens do tópico, offset_id=21890
+2024-08-05 03:56:46,248 - INFO - Obtendo mensagens do tópico, offset_id=21790
+2024-08-05 03:56:46,585 - INFO - Obtendo mensagens do tópico, offset_id=21690
+2024-08-05 03:56:46,818 - INFO - Obtendo mensagens do tópico, offset_id=21590
+2024-08-05 03:56:47,063 - INFO - Obtendo mensagens do tópico, offset_id=21489
+2024-08-05 03:56:47,301 - INFO - Obtendo mensagens do tópico, offset_id=21389
+2024-08-05 03:56:47,531 - INFO - Obtendo mensagens do tópico, offset_id=21289
+2024-08-05 03:56:47,768 - INFO - Obtendo mensagens do tópico, offset_id=21189
+2024-08-05 03:56:48,005 - INFO - Obtendo mensagens do tópico, offset_id=21089
+2024-08-05 03:56:48,125 - INFO - Sleeping for 23s (0:00:23) on GetHistoryRequest flood wait
+2024-08-05 03:57:11,364 - INFO - Obtendo mensagens do tópico, offset_id=20987
+2024-08-05 03:57:11,641 - INFO - Obtendo mensagens do tópico, offset_id=20887
+2024-08-05 03:57:11,901 - INFO - Obtendo mensagens do tópico, offset_id=20787
+2024-08-05 03:57:12,179 - INFO - Obtendo mensagens do tópico, offset_id=20687
+2024-08-05 03:57:12,411 - INFO - Obtendo mensagens do tópico, offset_id=20586
+2024-08-05 03:57:12,639 - INFO - Obtendo mensagens do tópico, offset_id=20486
+2024-08-05 03:57:12,891 - INFO - Obtendo mensagens do tópico, offset_id=20386
+2024-08-05 03:57:13,175 - INFO - Obtendo mensagens do tópico, offset_id=20285
+2024-08-05 03:57:13,553 - INFO - Obtendo mensagens do tópico, offset_id=20149
+2024-08-05 03:57:13,780 - INFO - Obtendo mensagens do tópico, offset_id=20049
+2024-08-05 03:57:14,021 - INFO - Obtendo mensagens do tópico, offset_id=19948
+2024-08-05 03:57:14,269 - INFO - Obtendo mensagens do tópico, offset_id=19848
+2024-08-05 03:57:14,550 - INFO - Obtendo mensagens do tópico, offset_id=19748
+2024-08-05 03:57:14,792 - INFO - Obtendo mensagens do tópico, offset_id=19648
+2024-08-05 03:57:15,046 - INFO - Obtendo mensagens do tópico, offset_id=19548
+2024-08-05 03:57:15,296 - INFO - Obtendo mensagens do tópico, offset_id=19448
+2024-08-05 03:57:15,526 - INFO - Obtendo mensagens do tópico, offset_id=19347
+2024-08-05 03:57:15,770 - INFO - Obtendo mensagens do tópico, offset_id=19079
+2024-08-05 03:57:16,018 - INFO - Obtendo mensagens do tópico, offset_id=18979
+2024-08-05 03:57:16,287 - INFO - Obtendo mensagens do tópico, offset_id=18879
+2024-08-05 03:57:16,519 - INFO - Obtendo mensagens do tópico, offset_id=18779
+2024-08-05 03:57:16,755 - INFO - Obtendo mensagens do tópico, offset_id=18679
+2024-08-05 03:57:17,004 - INFO - Obtendo mensagens do tópico, offset_id=18579
+2024-08-05 03:57:17,252 - INFO - Obtendo mensagens do tópico, offset_id=18479
+2024-08-05 03:57:17,494 - INFO - Obtendo mensagens do tópico, offset_id=18379
+2024-08-05 03:57:17,742 - INFO - Obtendo mensagens do tópico, offset_id=18279
+2024-08-05 03:57:18,039 - INFO - Obtendo mensagens do tópico, offset_id=18179
+2024-08-05 03:57:18,279 - INFO - Obtendo mensagens do tópico, offset_id=18074
+2024-08-05 03:57:18,520 - INFO - Obtendo mensagens do tópico, offset_id=17974
+2024-08-05 03:57:18,752 - INFO - Obtendo mensagens do tópico, offset_id=17839
+2024-08-05 03:57:18,871 - INFO - Sleeping for 23s (0:00:23) on GetHistoryRequest flood wait
+2024-08-05 03:57:42,115 - INFO - Obtendo mensagens do tópico, offset_id=17738
+2024-08-05 03:57:42,342 - INFO - Obtendo mensagens do tópico, offset_id=17638
+2024-08-05 03:57:42,579 - INFO - Obtendo mensagens do tópico, offset_id=17538
+2024-08-05 03:57:42,845 - INFO - Obtendo mensagens do tópico, offset_id=17438
+2024-08-05 03:57:43,082 - INFO - Obtendo mensagens do tópico, offset_id=17329
+2024-08-05 03:57:43,328 - INFO - Obtendo mensagens do tópico, offset_id=17228
+2024-08-05 03:57:43,592 - INFO - Obtendo mensagens do tópico, offset_id=17128
+2024-08-05 03:57:43,842 - INFO - Obtendo mensagens do tópico, offset_id=17028
+2024-08-05 03:57:44,110 - INFO - Obtendo mensagens do tópico, offset_id=16542
+2024-08-05 03:57:44,350 - INFO - Obtendo mensagens do tópico, offset_id=16442
+2024-08-05 03:57:44,594 - INFO - Obtendo mensagens do tópico, offset_id=16341
+2024-08-05 03:57:44,851 - INFO - Obtendo mensagens do tópico, offset_id=16241
+2024-08-05 03:57:45,097 - INFO - Obtendo mensagens do tópico, offset_id=16141
+2024-08-05 03:57:45,339 - INFO - Obtendo mensagens do tópico, offset_id=16041
+2024-08-05 03:57:45,574 - INFO - Obtendo mensagens do tópico, offset_id=15940
+2024-08-05 03:57:45,832 - INFO - Obtendo mensagens do tópico, offset_id=15840
+2024-08-05 03:57:46,090 - INFO - Obtendo mensagens do tópico, offset_id=15740
+2024-08-05 03:57:46,367 - INFO - Obtendo mensagens do tópico, offset_id=15640
+2024-08-05 03:57:46,605 - INFO - Obtendo mensagens do tópico, offset_id=15540
+2024-08-05 03:57:46,852 - INFO - Obtendo mensagens do tópico, offset_id=15440
+2024-08-05 03:57:47,090 - INFO - Obtendo mensagens do tópico, offset_id=15340
+2024-08-05 03:57:47,334 - INFO - Obtendo mensagens do tópico, offset_id=15240
+2024-08-05 03:57:47,604 - INFO - Obtendo mensagens do tópico, offset_id=15140
+2024-08-05 03:57:47,916 - INFO - Obtendo mensagens do tópico, offset_id=15040
+2024-08-05 03:57:48,169 - INFO - Obtendo mensagens do tópico, offset_id=14631
+2024-08-05 03:57:48,429 - INFO - Obtendo mensagens do tópico, offset_id=14528
+2024-08-05 03:57:48,673 - INFO - Obtendo mensagens do tópico, offset_id=14428
+2024-08-05 03:57:48,918 - INFO - Obtendo mensagens do tópico, offset_id=14324
+2024-08-05 03:57:49,204 - INFO - Obtendo mensagens do tópico, offset_id=14224
+2024-08-05 03:57:49,498 - INFO - Obtendo mensagens do tópico, offset_id=14123
+2024-08-05 03:57:49,620 - INFO - Sleeping for 23s (0:00:23) on GetHistoryRequest flood wait
+2024-08-05 03:58:12,902 - INFO - Obtendo mensagens do tópico, offset_id=14022
+2024-08-05 03:58:13,199 - INFO - Obtendo mensagens do tópico, offset_id=13922
+2024-08-05 03:58:13,465 - INFO - Obtendo mensagens do tópico, offset_id=13822
+2024-08-05 03:58:13,762 - INFO - Obtendo mensagens do tópico, offset_id=13722
+2024-08-05 03:58:14,020 - INFO - Obtendo mensagens do tópico, offset_id=13622
+2024-08-05 03:58:14,288 - INFO - Obtendo mensagens do tópico, offset_id=13445
+2024-08-05 03:58:14,533 - INFO - Obtendo mensagens do tópico, offset_id=13345
+2024-08-05 03:58:14,788 - INFO - Obtendo mensagens do tópico, offset_id=13244
+2024-08-05 03:58:15,037 - INFO - Obtendo mensagens do tópico, offset_id=13144
+2024-08-05 03:58:15,281 - INFO - Obtendo mensagens do tópico, offset_id=13044
+2024-08-05 03:58:15,543 - INFO - Obtendo mensagens do tópico, offset_id=12944
+2024-08-05 03:58:15,791 - INFO - Obtendo mensagens do tópico, offset_id=12844
+2024-08-05 03:58:16,055 - INFO - Obtendo mensagens do tópico, offset_id=12744
+2024-08-05 03:58:16,296 - INFO - Obtendo mensagens do tópico, offset_id=12644
+2024-08-05 03:58:16,555 - INFO - Obtendo mensagens do tópico, offset_id=12544
+2024-08-05 03:58:16,813 - INFO - Obtendo mensagens do tópico, offset_id=12444
+2024-08-05 03:58:17,115 - INFO - Obtendo mensagens do tópico, offset_id=12176
+2024-08-05 03:58:17,440 - INFO - Obtendo mensagens do tópico, offset_id=12030
+2024-08-05 03:58:17,680 - INFO - Obtendo mensagens do tópico, offset_id=11930
+2024-08-05 03:58:17,942 - INFO - Obtendo mensagens do tópico, offset_id=11830
+2024-08-05 03:58:18,188 - INFO - Obtendo mensagens do tópico, offset_id=11730
+2024-08-05 03:58:18,440 - INFO - Obtendo mensagens do tópico, offset_id=11630
+2024-08-05 03:58:18,701 - INFO - Obtendo mensagens do tópico, offset_id=11530
+2024-08-05 03:58:18,989 - INFO - Obtendo mensagens do tópico, offset_id=11430
+2024-08-05 03:58:19,257 - INFO - Obtendo mensagens do tópico, offset_id=11329
+2024-08-05 03:58:19,505 - INFO - Obtendo mensagens do tópico, offset_id=11229
+2024-08-05 03:58:19,815 - INFO - Obtendo mensagens do tópico, offset_id=11129
+2024-08-05 03:58:20,090 - INFO - Obtendo mensagens do tópico, offset_id=11029
+2024-08-05 03:58:20,385 - INFO - Obtendo mensagens do tópico, offset_id=10929
+2024-08-05 03:58:20,685 - INFO - Obtendo mensagens do tópico, offset_id=10829
+2024-08-05 03:58:20,802 - INFO - Sleeping for 23s (0:00:23) on GetHistoryRequest flood wait
+2024-08-05 03:58:44,052 - INFO - Obtendo mensagens do tópico, offset_id=10729
+2024-08-05 03:58:44,324 - INFO - Obtendo mensagens do tópico, offset_id=10629
+2024-08-05 03:58:44,616 - INFO - Obtendo mensagens do tópico, offset_id=10529
+2024-08-05 03:58:44,891 - INFO - Obtendo mensagens do tópico, offset_id=10429
+2024-08-05 03:58:45,163 - INFO - Obtendo mensagens do tópico, offset_id=10329
+2024-08-05 03:58:45,450 - INFO - Obtendo mensagens do tópico, offset_id=10229
+2024-08-05 03:58:45,779 - INFO - Obtendo mensagens do tópico, offset_id=10129
+2024-08-05 03:58:46,017 - INFO - Obtendo mensagens do tópico, offset_id=10029
+2024-08-05 03:58:46,277 - INFO - Obtendo mensagens do tópico, offset_id=9748
+2024-08-05 03:58:46,505 - INFO - Obtendo mensagens do tópico, offset_id=9648
+2024-08-05 03:58:46,750 - INFO - Obtendo mensagens do tópico, offset_id=9548
+2024-08-05 03:58:46,987 - INFO - Obtendo mensagens do tópico, offset_id=9446
+2024-08-05 03:58:47,234 - INFO - Obtendo mensagens do tópico, offset_id=9345
+2024-08-05 03:58:47,467 - INFO - Obtendo mensagens do tópico, offset_id=9239
+2024-08-05 03:58:47,774 - INFO - Obtendo mensagens do tópico, offset_id=9139
+2024-08-05 03:58:48,014 - INFO - Obtendo mensagens do tópico, offset_id=9039
+2024-08-05 03:58:48,298 - INFO - Obtendo mensagens do tópico, offset_id=8939
+2024-08-05 03:58:48,593 - INFO - Obtendo mensagens do tópico, offset_id=8839
+2024-08-05 03:58:48,834 - INFO - Obtendo mensagens do tópico, offset_id=8739
+2024-08-05 03:58:49,051 - INFO - Obtendo mensagens do tópico, offset_id=8638
+2024-08-05 03:58:49,291 - INFO - Obtendo mensagens do tópico, offset_id=8537
+2024-08-05 03:58:49,594 - INFO - Obtendo mensagens do tópico, offset_id=8437
+2024-08-05 03:58:49,880 - INFO - Obtendo mensagens do tópico, offset_id=8337
+2024-08-05 03:58:50,119 - INFO - Obtendo mensagens do tópico, offset_id=8237
+2024-08-05 03:58:50,405 - INFO - Obtendo mensagens do tópico, offset_id=8137
+2024-08-05 03:58:50,644 - INFO - Obtendo mensagens do tópico, offset_id=8037
+2024-08-05 03:58:50,880 - INFO - Obtendo mensagens do tópico, offset_id=7937
+2024-08-05 03:58:51,110 - INFO - Obtendo mensagens do tópico, offset_id=7837
+2024-08-05 03:58:51,348 - INFO - Obtendo mensagens do tópico, offset_id=7452
+2024-08-05 03:58:51,605 - INFO - Obtendo mensagens do tópico, offset_id=7351
+2024-08-05 03:58:51,726 - INFO - Sleeping for 23s (0:00:23) on GetHistoryRequest flood wait
+2024-08-05 03:59:14,969 - INFO - Obtendo mensagens do tópico, offset_id=7241
+2024-08-05 03:59:15,211 - INFO - Obtendo mensagens do tópico, offset_id=7114
+2024-08-05 03:59:15,445 - INFO - Obtendo mensagens do tópico, offset_id=7014
+2024-08-05 03:59:15,705 - INFO - Obtendo mensagens do tópico, offset_id=6913
+2024-08-05 03:59:15,944 - INFO - Obtendo mensagens do tópico, offset_id=6786
+2024-08-05 03:59:16,201 - INFO - Obtendo mensagens do tópico, offset_id=6686
+2024-08-05 03:59:16,431 - INFO - Obtendo mensagens do tópico, offset_id=6586
+2024-08-05 03:59:16,670 - INFO - Obtendo mensagens do tópico, offset_id=6486
+2024-08-05 03:59:16,903 - INFO - Obtendo mensagens do tópico, offset_id=6386
+2024-08-05 03:59:17,184 - INFO - Obtendo mensagens do tópico, offset_id=6285
+2024-08-05 03:59:17,435 - INFO - Obtendo mensagens do tópico, offset_id=6185
+2024-08-05 03:59:17,667 - INFO - Obtendo mensagens do tópico, offset_id=6085
+2024-08-05 03:59:17,909 - INFO - Obtendo mensagens do tópico, offset_id=5985
+2024-08-05 03:59:18,154 - INFO - Obtendo mensagens do tópico, offset_id=5885
+2024-08-05 03:59:18,384 - INFO - Obtendo mensagens do tópico, offset_id=5687
+2024-08-05 03:59:18,628 - INFO - Obtendo mensagens do tópico, offset_id=5351
+2024-08-05 03:59:18,887 - INFO - Obtendo mensagens do tópico, offset_id=5251
+2024-08-05 03:59:19,131 - INFO - Obtendo mensagens do tópico, offset_id=5151
+2024-08-05 03:59:19,526 - INFO - Obtendo mensagens do tópico, offset_id=5051
+2024-08-05 03:59:19,773 - INFO - Obtendo mensagens do tópico, offset_id=4950
+2024-08-05 03:59:20,034 - INFO - Obtendo mensagens do tópico, offset_id=4849
+2024-08-05 03:59:20,268 - INFO - Obtendo mensagens do tópico, offset_id=4749
+2024-08-05 03:59:20,595 - INFO - Obtendo mensagens do tópico, offset_id=4649
+2024-08-05 03:59:20,830 - INFO - Obtendo mensagens do tópico, offset_id=4546
+2024-08-05 03:59:21,123 - INFO - Obtendo mensagens do tópico, offset_id=4446
+2024-08-05 03:59:21,370 - INFO - Obtendo mensagens do tópico, offset_id=4346
+2024-08-05 03:59:21,617 - INFO - Obtendo mensagens do tópico, offset_id=4245
+2024-08-05 03:59:21,907 - INFO - Obtendo mensagens do tópico, offset_id=4145
+2024-08-05 03:59:22,133 - INFO - Obtendo mensagens do tópico, offset_id=4027
+2024-08-05 03:59:22,369 - INFO - Obtendo mensagens do tópico, offset_id=3927
+2024-08-05 03:59:22,488 - INFO - Sleeping for 24s (0:00:24) on GetHistoryRequest flood wait
+2024-08-05 03:59:46,745 - INFO - Obtendo mensagens do tópico, offset_id=3827
+2024-08-05 03:59:46,985 - INFO - Obtendo mensagens do tópico, offset_id=3727
+2024-08-05 03:59:47,225 - INFO - Obtendo mensagens do tópico, offset_id=3627
+2024-08-05 03:59:47,466 - INFO - Obtendo mensagens do tópico, offset_id=3527
+2024-08-05 03:59:47,732 - INFO - Obtendo mensagens do tópico, offset_id=3427
+2024-08-05 03:59:47,987 - INFO - Obtendo mensagens do tópico, offset_id=3327
+2024-08-05 03:59:48,249 - INFO - Obtendo mensagens do tópico, offset_id=3227
+2024-08-05 03:59:48,499 - INFO - Obtendo mensagens do tópico, offset_id=3127
+2024-08-05 03:59:48,748 - INFO - Obtendo mensagens do tópico, offset_id=3027
+2024-08-05 03:59:48,994 - INFO - Obtendo mensagens do tópico, offset_id=2927
+2024-08-05 03:59:49,286 - INFO - Obtendo mensagens do tópico, offset_id=2827
+2024-08-05 03:59:49,522 - INFO - Obtendo mensagens do tópico, offset_id=2727
+2024-08-05 03:59:49,761 - INFO - Obtendo mensagens do tópico, offset_id=2627
+2024-08-05 03:59:49,999 - INFO - Obtendo mensagens do tópico, offset_id=2527
+2024-08-05 03:59:50,238 - INFO - Obtendo mensagens do tópico, offset_id=2427
+2024-08-05 03:59:50,488 - INFO - Obtendo mensagens do tópico, offset_id=2327
+2024-08-05 03:59:50,751 - INFO - Obtendo mensagens do tópico, offset_id=2227
+2024-08-05 03:59:51,013 - INFO - Obtendo mensagens do tópico, offset_id=2008
+2024-08-05 03:59:51,248 - INFO - Obtendo mensagens do tópico, offset_id=1908
+2024-08-05 03:59:51,481 - INFO - Obtendo mensagens do tópico, offset_id=1808
+2024-08-05 03:59:51,737 - INFO - Obtendo mensagens do tópico, offset_id=1707
+2024-08-05 03:59:51,975 - INFO - Obtendo mensagens do tópico, offset_id=1607
+2024-08-05 03:59:52,208 - INFO - Obtendo mensagens do tópico, offset_id=1507
+2024-08-05 03:59:52,440 - INFO - Obtendo mensagens do tópico, offset_id=1405
+2024-08-05 03:59:52,678 - INFO - Obtendo mensagens do tópico, offset_id=1305
+2024-08-05 03:59:52,919 - INFO - Obtendo mensagens do tópico, offset_id=1205
+2024-08-05 03:59:53,148 - INFO - Obtendo mensagens do tópico, offset_id=1103
+2024-08-05 03:59:53,380 - INFO - Obtendo mensagens do tópico, offset_id=1003
+2024-08-05 03:59:53,608 - INFO - Obtendo mensagens do tópico, offset_id=903
+2024-08-05 03:59:53,847 - INFO - Obtendo mensagens do tópico, offset_id=793
+2024-08-05 03:59:53,964 - INFO - Sleeping for 24s (0:00:24) on GetHistoryRequest flood wait
+2024-08-05 04:00:18,211 - INFO - Obtendo mensagens do tópico, offset_id=693
+2024-08-05 04:00:18,497 - INFO - Obtendo mensagens do tópico, offset_id=593
+2024-08-05 04:00:18,754 - INFO - Obtendo mensagens do tópico, offset_id=492
+2024-08-05 04:00:19,048 - INFO - Obtendo mensagens do tópico, offset_id=392
+2024-08-05 04:00:19,298 - INFO - Obtendo mensagens do tópico, offset_id=292
+2024-08-05 04:00:19,537 - INFO - Obtendo mensagens do tópico, offset_id=192
+2024-08-05 04:00:19,781 - INFO - Obtendo mensagens do tópico, offset_id=92
+2024-08-05 04:00:19,986 - INFO - Obtendo mensagens do tópico, offset_id=1
+2024-08-05 04:00:20,115 - INFO - IDs de mensagens com vídeos e imagens salvos na pasta: C:\Users\rhuan\projetosTunnel\TelegramMidiaDownload\ALINE FARIAS
+2024-08-05 04:00:20,115 - INFO - Disconnecting from 149.154.175.58:443/TcpFull...
+2024-08-05 04:00:20,115 - INFO - Disconnection from 149.154.175.58:443/TcpFull complete!

@@ -7,22 +7,19 @@ from telethon.tl.functions.messages import GetHistoryRequest
 from telethon.tl.functions.channels import GetForumTopicsRequest
 from telethon.tl.types import Channel, Chat, MessageMediaPhoto, MessageMediaDocument, ForumTopic
 
-# Configurações da API do Telegram
 api_id = '29046304'
 api_hash = '539980443a5ad0de6a882acc26666235'
 phone_number = '5511948601229'
 group_id = -1002248196253  # ID prefixado com -100 para supergrupos
 
-# Inicializa o cliente do Telegram
 client = TelegramClient('session_name', api_id, api_hash)
 
-# Configuração do logging
 log_file = 'process_log.txt'
 logging.basicConfig(filename=log_file, level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
 
 def log(message):
     logging.info(message)
-    print(message)  # Também imprime no console para feedback em tempo real
+    print(message)  
 
 def ensure_directory_exists(path):
     if not os.path.exists(path):
@@ -38,16 +35,14 @@ async def get_messages_from_topic(group_id, topic_id):
         if isinstance(entity, (Channel, Chat)):
             log(f"Analisando o grupo: {entity.title}")
 
-            # Obter tópicos de fórum
             forum_topics = await client(GetForumTopicsRequest(
                 channel=entity,
                 offset_date=None,
                 offset_id=0,
                 offset_topic=0,
-                limit=100  # Ajuste conforme necessário
+                limit=100  
             ))
 
-            # Encontre o tópico com o ID fornecido
             topic = next((t for t in forum_topics.topics if t.id == int(topic_id)), None)
             if not topic:
                 log(f"Tópico com ID {topic_id} não encontrado.")
@@ -56,11 +51,9 @@ async def get_messages_from_topic(group_id, topic_id):
             topic_title = topic.title if topic.title else f"tópico_{topic.id}"
             log(f"Analisando o tópico: {topic_title}")
 
-            # Criar pasta para o tópico no diretório raiz do projeto
             folder_path = os.path.join(os.getcwd(), topic_title)
             ensure_directory_exists(folder_path)
 
-            # Obter todas as mensagens do tópico
             all_messages = []
             offset_id = 0
             has_more_messages = True
@@ -85,7 +78,6 @@ async def get_messages_from_topic(group_id, topic_id):
                 all_messages.extend(history.messages)
                 offset_id = history.messages[-1].id
 
-            # Filtrar e salvar os IDs das mensagens com vídeos e imagens
             video_ids = []
             photo_ids = []
 

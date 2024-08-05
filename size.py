@@ -23,13 +23,12 @@ async def analyze_group(group_id):
         if isinstance(entity, (Channel, Chat)):
             print(f"Analisando o grupo: {entity.title}")
 
-            # Obter tópicos de fórum
             forum_topics = await client(GetForumTopicsRequest(
                 channel=entity,
                 offset_date=None,
                 offset_id=0,
                 offset_topic=0,
-                limit=600  # Ajuste conforme necessário
+                limit=600
             ))
 
             for topic in forum_topics.topics:
