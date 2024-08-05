@@ -72,32 +72,30 @@ async def download_videos_from_ids(client, file_path, folder_path):
         logger(f"[yellow]Nenhum ID encontrado no arquivo {file_path}.[/yellow]")
         return
 
-    # Baixar os vídeos em grupos de 5
-    for i in range(0, len(message_ids), 5):
-        tasks = []
-        for message_id in message_ids[i:i+5]:
-            tasks.append(download_single_video(client, message_id, folder_path, file_path, lines))
-        await asyncio.gather(*tasks)
+    # Gerenciamento de tarefas
+    tasks = set()
 
-async def download_single_video(client, message_id, folder_path, file_path, lines):
+    for message_id in message_ids:
+        if len(tasks) >= 10:
+            # Aguarda até que alguma tarefa seja concluída
+            done, tasks = await asyncio.wait(tasks, return_when=asyncio.FIRST_COMPLETED)
+
+        task = asyncio.create_task(download_single_video(client, message_id, folder_path))
+        tasks.add(task)
+
+    # Aguarda todas as tarefas restantes
+    if tasks:
+        await asyncio.wait(tasks)
+
+async def download_single_video(client, message_id, folder_path):
     try:
         message = await client.get_messages(group_id, ids=int(message_id))
         if isinstance(message.media, MessageMediaDocument) and message.media.document.mime_type.startswith('video/'):
-            success = await download_media_with_progress(client, message, folder_path)
-            if success:
-                mark_id_as_downloaded(file_path, lines, message_id)
+            await download_media_with_progress(client, message, folder_path)
         else:
             logger(f'[yellow]Mídia não é um vídeo ou não foi encontrada para o ID {message_id}[/yellow]')
     except Exception as e:
         logger(f'[red]Erro ao processar a mensagem ID {message_id}: {e}[/red]')
-
-def mark_id_as_downloaded(file_path, lines, message_id):
-    with open(file_path, 'w') as f:
-        for line in lines:
-            if line.strip() == message_id:
-                f.write(f"{message_id} ok\n")
-            else:
-                f.write(line)
 
 async def process_all_subdirectories(root_folder):
     client = await initialize_client()  # Inicialize o client aqui
