@@ -1,7 +1,0 @@
-api_id = '29046304'
-api_hash = '539980443a5ad0de6a882acc26666235'
-phone_number = '5511948601229'
-
-api_id = '27848659'
-api_hash = '56e7252b4d9c38ebfe68f836508c1cf4'
-phone_number = '5511970839854'
